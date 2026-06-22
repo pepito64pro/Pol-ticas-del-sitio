@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Políticas - Organización Contra las Drogas</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header{
+            background-color: #1e88e5;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        main{
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+        }
+
+        h2{
+            color: #1e88e5;
+        }
+
+        section{
+            margin-bottom: 25px;
+        }
+
+        footer{
+            background-color: #1e88e5;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Organización Unidos Contra las Drogas</h1>
+    <p>Políticas y Normas de la Página Web</p>
+</header>
+
+<main>
+
+    <section>
+        <h2>1. Objetivo del Sitio</h2>
+        <p>
+            Este sitio tiene como finalidad informar, educar y promover la prevención
+            del consumo de drogas mediante contenido responsable y basado en fuentes confiables.
+        </p>
+    </section>
+
+    <section>
+        <h2>2. Uso Adecuado</h2>
+        <p>
+            Los usuarios deben utilizar la página de manera respetuosa y responsable.
+            No se permite la publicación de contenido ofensivo, discriminatorio o que promueva el consumo de drogas.
+        </p>
+    </section>
+
+    <section>
+        <h2>3. Protección de Menores</h2>
+        <p>
+            La organización promueve un entorno seguro para niños y adolescentes.
+            Todo el contenido está orientado a la prevención y concientización.
+        </p>
+    </section>
+
+    <section>
+        <h2>4. Privacidad</h2>
+        <p>
+            Los datos personales proporcionados por los usuarios serán tratados de forma
+            confidencial y únicamente para fines relacionados con la organización.
+        </p>
+    </section>
+
+    <section>
+        <h2>5. Información Publicada</h2>
+        <p>
+            La información presentada tiene fines educativos y preventivos.
+            No sustituye el consejo de profesionales de la salud o especialistas.
+        </p>
+    </section>
+
+    <section>
+        <h2>6. Conducta en Comentarios</h2>
+        <p>
+            Se eliminarán comentarios que promuevan actividades ilegales, violencia,
+            consumo de sustancias o cualquier contenido inapropiado.
+        </p>
+    </section>
+
+    <section>
+        <h2>7. Modificaciones</h2>
+        <p>
+            La organización se reserva el derecho de actualizar estas políticas cuando sea necesario.
+        </p>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Organización Unidos Contra las Drogas | Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
